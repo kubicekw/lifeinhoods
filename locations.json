@@ -2248,17 +2248,23 @@
 		]
 	},
 	{
-		"type": "Territories",
-		"title": "Florencia 13",
-		"notes": "Florencia 13 Gang",
+		"type": "Unofficial Turfs",
+		"title": "Welcome to Florence",
+		"notes": "The Vespucci Florence Gang, also known as the Florencia 13 or the Florence Avenue Aztecs, is arguably one of the largest hispanic street gang in Los Santos County. The gang was first formed in the late 1940s by the children of East LS former Aztecas member who decided to move in the West after the Zoot Suit Riots. This gang is currently running down 85th Street and Florence Ave, from where they have name, in the Florence-Firestone District of West Los Santos.",
 		"order": 0,
-		"strokecolor": "FD5E53",
-		"fillcolor": "FD5E53",
+		"strokecolor": "#FC1707",
+		"fillcolor": "FC1707",
 		"latlngarray": [
-			{"lat": -49.668, "lng": -71.860},
-			{"lat": -50.959, "lng": -73.662},
-			{"lat": -45.028, "lng": -78.716},
-			{"lat": -47.488, "lng": -80.561}
+			{"lat": -66.620, "lng": -41.075},
+			{"lat": -66.915, "lng": -42.393},
+			{"lat": -67.753, "lng": -42.953},
+			{"lat": -68.441, "lng": -41.800},
+			{"lat": -68.198, "lng": -40.503},
+			{"lat": -68.409, "lng": -40.152},
+			{"lat": -68.263, "lng": -39.328},
+			{"lat": -68.026, "lng": -39.547},
+			{"lat": -67.790, "lng": -38.647},
+			{"lat": -67.005, "lng": -39.921}
 		]
 	},
 	{
