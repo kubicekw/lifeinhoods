@@ -108,7 +108,13 @@ $(function() {
 			enabled: false,
 		},
 		{
-			name: 'Territories',
+			name: 'Faction Turfs',
+			icon: 'General/wall-breach.png',
+			type: 'General',
+			enabled: true,
+		},
+		{
+			name: 'Unofficial Turfs',
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true,
