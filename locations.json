@@ -2269,24 +2269,23 @@
 		]
 	},
 	{
-		"type": "Territories",
-		"title": "The Grove Street Families",
-		"notes": "Formerly known as the Grove Street Families (GSF), now known as The Families, the gang is known for the color Green. The Families started with OG members Dexx Martin, Chef, Ghost Storm & Tyrese Tyrone. They all lived in the area of Forum Drive, The Families are made up four separate gangs consisting of Forum Drive Families, Carson Avenue Families, Davis Neighborhood Families, and Chamberlain Gangster Families.",
+		"type": "Unofficial Turfs",
+		"title": "88th Street Terrorist",
+		"notes": "The 88 Avalon Garden Crips (often abbreviated as AGC, 88AGC, or the Avalon Garden Crips. They are an American street gang founded in Los Santos. The gang was originally formed in the late 1970s as the Garden Crips as they operate inside of the Avalon Gardens. They Avalon Garden Crips identify themselves under the Gangster Crips card which is known at the 3x Card.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/The_Families",
 		"order": 0,
-		"strokecolor": "008000",
-		"fillcolor": "008000",
+		"strokecolor": "615E5E",
+		"fillcolor": "000000",
 		"latlngarray": [
-
-		],
-		"video": {
-			"yt_id": "_2M8wtbdg6k",
-			"yt_user_display": "NIKAD",
-			"yt_user_link": "c/nikad"
-		}
+			{"lat": -76.174, "lng": -6.151},
+			{"lat": -76.853, "lng": -2.613},
+			{"lat": -77.037, "lng": -3.316},
+			{"lat": -77.128, "lng": -3.826},
+			{"lat": -77.167, "lng": -4.398},
+			{"lat": -77.065, "lng": -5.489},
+			{"lat": -76.602, "lng": -7.686}
+		]
 	},
-
-	
 	{
 		"type": "Heists",
 		"title": "Fleeca Bank",
