@@ -2266,7 +2266,12 @@
 			{"lat": -68.026, "lng": -39.547},
 			{"lat": -67.790, "lng": -38.647},
 			{"lat": -67.005, "lng": -39.921}
-		]
+		],
+             "video": {
+			"yt_id": "_z9sB0oY3",
+			"yt_user_display": "KUBICEK",
+			"yt_user_link": "user/kubiceek6431"
+		}
 	},
 	{
 		"type": "Unofficial Turfs",
