@@ -2266,11 +2266,7 @@
 			{"lat": -68.026, "lng": -39.547},
 			{"lat": -67.790, "lng": -38.647},
 			{"lat": -67.005, "lng": -39.921}
-		],
-             "video": {
-		      "yt_id": "z9sB0oY3TQ&ab",
-		      "yt_user_link": "c/kubiceek6431"
-		}
+		]
 	},
 	{
 		"type": "Unofficial Turfs",
@@ -2287,6 +2283,48 @@
 			{"lat": -77.167, "lng": -4.398},
 			{"lat": -77.065, "lng": -5.489},
 			{"lat": -76.612, "lng": -7.730}
+		]
+	},
+		{
+		"type": "Unofficial Turfs",
+		"title": "Rollin 20s Deadly Piru",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "615E5E",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -73.098, "lng": -15.006},
+			{"lat": -73.493, "lng": -13.413},
+			{"lat": -73.292, "lng": -12.160},
+			{"lat": -72.792, "lng": -14.127},
+		]
+	},
+			{
+		"type": "Unofficial Turfs",
+		"title": "Broadway Originals",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "615E5E",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -75.016, "lng": -12.870},
+			{"lat": -75.259, "lng": -11.606},
+			{"lat": -75.885, "lng": -13.320},
+			{"lat": -75.631, "lng": -14.660},
+		]
+	},
+				{
+		"type": "Unofficial Turfs",
+		"title": "110th St & Wilmington Ave",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "615E5E",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -74.604, "lng": -16.320},
+			{"lat": -74.947, "lng": -14.826},
+			{"lat": -74.124, "lng": -12.014},
+			{"lat": -73.894, "lng": -13.013},
 		]
 	},
 	{
@@ -2792,7 +2830,7 @@
 
 
 	{
-		"type": "Restaurants",
+		"type": "Restaurwants",
 		"title": "Burger Shot",
 		"notes": "Burger Shot is a chain of fast-food restaurants specializing in hamburgers. Burger Shot is the food of choice in Los Santos. The company offers many delicious menu items and is owned by Dean Watson with Shelly Smith as CEO and Cassie Cupcake as COO.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Burger_Shot",
@@ -2811,7 +2849,7 @@
 		}
 	},
 	{
-		"type": "Restaurants",
+		"type": "Restaurawnts",
 		"title": "Maldini's Pizzeria",
 		"notes": "Maldini's Pizzeria is Co-owned by Vinny Pistone and Mr. Kebun.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Maldini%27s_Pizzeria",
@@ -2826,7 +2864,7 @@
 		]
 	},
 	{
-		"type": "Restaurants",
+		"type": "Restaurwants",
 		"title": "Rooster Rest",
 		"notes": "The Rooster's Rest is a local establishment privately-owned by Lang Buddha and members of the Cleanbois. While the business mostly operates as a chalet-style restaurant (serving mainly chicken-based products and ramen bowls), The Rooster's Rest also operates as a bar and grill, music venue, nightclub, hostel, the base of operations for Rooster Cab Co., a secretive host for D&D campaigns, and as a casino, strip club and brothel on the down-low.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Rooster%27s_Rest",
@@ -2845,7 +2883,7 @@
 		]
 	},
 	{
-		"type": "Restaurants",
+		"type": "Restaurwants",
 		"title": "UWU Caf\u00e9",
 		"notes": "UwU Caf\u00e9 is a restaurant created and owned by Ash Ketchup. Benji Ramos, Sherry Paie and Attorney James Haze each own a small percentage of the company and help run it",
 		"wiki_link": "https://nopixel.fandom.com/wiki/UwU_Caf%C3%A9",
@@ -2864,7 +2902,7 @@
 		]
 	},
 	{
-		"type": "Restaurants",
+		"type": "Restaurawnts",
 		"title": "Up n Atom",
 		"notes": "",
 		"wiki_link": "",
