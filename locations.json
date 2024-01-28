@@ -2313,7 +2313,7 @@
 			{"lat": -75.631, "lng": -14.660}
 		]
 	},
-	        {
+	{
 		"type": "Unofficial Turfs",
 		"title": "110th St & Wilmington Ave",
 		"notes": "",
@@ -2321,12 +2321,13 @@
 		"strokecolor": "615E5E",
 		"fillcolor": "000000",
 		"latlngarray": [
-		        {"lat": 63.041, "lng": -123.782},
-			{"lat": 63.160, "lng": -124.100},
-			{"lat": 62.971, "lng": -125.056},
-			{"lat": 62.720, "lng": -124.518}
+			{"lat": -74.122, "lng": -16.341},
+			{"lat": -73.779, "lng": -13.529},
+			{"lat": -73.977, "lng": -12.672},
+			{"lat": -74.552, "lng": -14.748}
 		]
 	},
+
 	{
 		"type": "Heists",
 		"title": "Fleeca Bank",
